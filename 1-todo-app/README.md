@@ -1,6 +1,6 @@
 # Todo CLI
 
-Todo CLI is a simple command-line application to manage your tasks. You can add new tasks, mark tasks as done, and display the current list of tasks.
+Todo CLI is a simple command-line application to manage to-do list. You can create new tasks, del
 
 ## Features
 
