@@ -49,7 +49,7 @@ Todo CLI is a simple command-line application to manage a to-do list. You can cr
 
 1. Clone the repository:
     ```sh
-    git clone git@github.com:leenalmajz rust-projects.git
+    git clone git@github.com:leenalmajz/rust-projects.git
     ```
 2. Navigate to the project directory:
     ```sh
