@@ -18,8 +18,6 @@ Todo CLI is a simple command-line application to manage a to-do list. You can cr
 ## Libraries Included
 
 - `chrono` (version 0.4): For handling date and time.
-- `colored` (version 2): For colored terminal output.
-- `directories` (version 4.0): For handling directories.
 
 ## Functions
 
@@ -51,19 +49,14 @@ Todo CLI is a simple command-line application to manage a to-do list. You can cr
 
 1. Clone the repository:
     ```sh
-    git clone <repository-url>
+    git clone git@github.com:leenalmajz rust-projects.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd todo-app
+    cd 1-todo-app
     ```
-3. Build the project using Cargo:
+3. Build & run the project using Cargo:
     ```sh
-    cargo build
+    cargo run
     ```
-
-## Usage
-
-Run the application:
-```sh
-cargo run --bin todo
+4. Follow instructions shown in the terminal
